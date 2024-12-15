@@ -18,7 +18,3 @@ This project is a simple "About Me" webpage designed to showcase personal inform
 - HTML5
 - CSS3
 
-## Author
-
-Srivignesh Kavle S – A passionate web developer specializing in modern web technologies.
-
